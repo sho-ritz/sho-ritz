@@ -11,12 +11,24 @@
 - 💻 最近はnestJSでの開発が中心です
 <br>
 
+## 🧑‍💻経歴
+| 時期  | 内容 |
+| --------------------- | ---------- |
+| 2022.4 ~             |  立命館大学入学    |
+| 2024.2 ~                | 歩くアルパカサークルに所属し、プログラミング歴スタート  |
+| 2024.4 ~ | RitsuFriendshipのPMとして開発開始 |
+| 2024.8 ~ | RitsuFriendshipアプリのリリース |
+| 2024.8 ~ | トラストハブのインターンに参加 |
+| 2024.10 ~ | tamago.techという起業プロジェクトに参加 |
+| 2024.10 ~ | CreativeGridという起業プロジェクトにCTOとして参加 |
+| 2025.5 ~ |  スターアップインターン参加    |
+| 2026.4 ~ | LINEヤフー入社       |
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 使用経験のある技術
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,c,matlab,react,next,nest,flask,django,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,c,matlab,react,next,nest,flask,django,docker,java,spring" />
 <br>
 
 
