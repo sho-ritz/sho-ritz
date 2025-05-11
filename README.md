@@ -40,6 +40,8 @@
 | RitsuFriendship | 自分はPMとして開発をすすめ、2025年5月5日現在で延べ239ダウンロード |
 | 歩くアルパカサークル | 元副部長 |
 
+[歩くアルパカアプリ](https://apps.apple.com/jp/app/%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E6%94%AF%E6%8F%B4%E3%82%A2%E3%83%97%E3%83%AAfor%E7%AB%8B%E5%91%BD%E9%A4%A8-%E6%AD%A9%E3%81%8F%E3%82%A2%E3%83%AB%E3%83%91%E3%82%AB-r/id6499567971)
+[リツフレ(RitsuFriendship)](https://apps.apple.com/jp/app/%E3%83%AA%E3%83%84%E3%83%95%E3%83%AC-%E7%AB%8B%E5%91%BD%E9%A4%A8%E5%A4%A7%E5%AD%A6%E5%90%91%E3%81%91%E5%AD%A6%E5%86%85sns/id6636493917)
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
