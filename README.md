@@ -9,6 +9,7 @@
 
 - 🧑‍💻 駆け出しエンジニアです
 - 💻 最近はnestJSでの開発が中心です
+- 組み込みシステム、インフラ、バックエンド、フロントエンド、bizを全て同時にやってます！
 <br>
 
 ## 🧑‍💻経歴
@@ -50,7 +51,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 使用経験のある技術
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,c,matlab,react,next,nest,flask,django,docker,java,spring" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,python,c,matlab,react,next,nest,flask,django,fastapi,docker,java,spring" />
 <br>
 
 
