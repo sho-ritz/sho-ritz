@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> こんにちは！
 
 - 🧑‍💻 駆け出しエンジニアです
-- 💻 最近はnestJSでの開発が中心です
+- 💻 最近はnestJS, fastAPI, Reactでの開発が中心です
 - CAD, 組み込みシステム、設計、インフラ、バックエンド、フロントエンド、biz系, PM, PdMを全て同時にやってます！ただ、デザインはできません。。。
 - 技術領域や分野に問わず、自分で全てなんでもできるっていう人間を目指してます！
 <br>
